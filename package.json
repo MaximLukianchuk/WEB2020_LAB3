@@ -1,0 +1,14 @@
+{
+  "name": "web_lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maksim Lukianchuk",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
